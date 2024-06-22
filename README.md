@@ -28,12 +28,12 @@ This Power BI dashboard provides an in-depth analysis of call center operations.
 - Sum of Minutes by Agent: The total call duration per agent.
 - Filter Tab: Allows users to filter data by specific agents or other criteria.
 
-### Installation And Access
-## Prerequisites
+## Installation And Access
+### Prerequisites
 - Power BI Desktop: Ensure you have Power BI Desktop installed.
 - Access to GitHub: You need a GitHub account to clone or download the repository.
 
-## Steps
+### Steps
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/call-center-dashboard.git
@@ -47,18 +47,18 @@ This Power BI dashboard provides an in-depth analysis of call center operations.
 3. Connect to Data Source:
    If the dashboard requires connecting to a live data source, follow the prompts in Power BI to authenticate and connect to your data source.
 
-### Usage
+## Usage
 - Interacting with the Dashboard
 - Filters: Use the filter tab to select specific agents, time periods, or call topics.
 - Visuals: Click on different elements of the charts and graphs to drill down into more detailed data.
 - Hover: Hover over data points to view additional details.
 
-## Example Analysis
-#Total Calls by Month:
+### Example Analysis
+###Total Calls by Month:
 - Navigate to the "Calls by Month" chart to see a monthly breakdown of total calls.
 - Identify any peak periods or trends over time.
 
-# Agent Performance:
+### Agent Performance:
 - Use the pie chart showing "Sum of Calls by Agent" to understand the distribution of calls among agents.
 - Check the "Highest Call Answered by Agent" metric to see who handled the most calls.
 
@@ -70,7 +70,7 @@ This section explains the insights provided by the dashboard in detail:
 - Topic Breakdown: Provides insights into the common issues or topics raised during calls.
 - Time Analysis: Evaluates call trends over different months to identify seasonal patterns.
 
-### Contributing
+## Contributing
 We welcome contributions to enhance the dashboard and add new features.
 
 1. Fork the Repository:
@@ -95,15 +95,15 @@ git push origin feature/AmazingFeature
 Navigate to the repository on GitHub and click on the "New Pull Request" button.
 
 
-### License
+## License
 
 
-### Contact
+## Contact
 For questions or support, feel free to reach out:
 
 Email: shahnawaz4323@gmail.com
 LinkedIn: https://www.linkedin.com/in/9shah/
 
-### Acknowledgments
+## Acknowledgments
 - Power BI - for providing the platform to create this dashboard.
 - Any other libraries, tools, or resources used in your project.
