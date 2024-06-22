@@ -36,7 +36,7 @@ This Power BI dashboard provides an in-depth analysis of call center operations.
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/call-center-dashboard.git
+   git clone https://github.com/ShahCrusher/call_center_dashboard.git
    ```
    Or download the repository as a ZIP file and extract it.
 
