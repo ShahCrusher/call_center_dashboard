@@ -1,4 +1,4 @@
-# call_center_dashboard
+# Call Center Dashboard
 Make Dashboard for Call Center Data by Power Bi
 
 ## Description
